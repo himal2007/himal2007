@@ -21,7 +21,7 @@ I am a bioinformatician at the [Peter Doherty Institute for Infection and Immuni
 
 ## About Me
 
-- 🎓 PhD in Bioinformatics from La Trobe University
+- 🎓 PhD in Bioinformatics from [Nematode and Vector Genomics Laboratory](https://nematodegenetics.wordpress.com/) at La Trobe University
 - 🧬 Research focus: Bioinformatics and Modeling to understand transmission dynamics of infectious diseases
 - 💡 Strong interest in integrating genomic, environmental, and epidemiological data
 - 💻 Competencies: Bioinformatic analysis, Population genetics, Landscape genetics, Spatial modelling, Infectious disease modelling, Statistical analysis
