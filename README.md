@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Photo](bioinf-publichealth.png)
+![Photo](bioinf-publichealth-2.png)
 
 # Hi there! 👋 I'm Himal.
 
