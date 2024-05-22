@@ -28,7 +28,7 @@ I am a bioinformatician at the [Microbiological Diagnostic Unit Public Health La
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on developing bioinformatics pipelines for typing bacterial pathogens
 - 🌱 I’m currently learning Nextflow
-- 📖 I'm currently reading The Ultimate Hitchhiker's Guide to the Galaxy by Douglas Adams
+- 📖 I'm currently reading [Measuring the World](https://www.goodreads.com/book/show/642231.Measuring_the_World) by Daniel Kehlmann
 
 
 <!-- ### Here’s some stats on my GitHub repos
