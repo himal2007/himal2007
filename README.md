@@ -1,18 +1,3 @@
-<!--
-**himal2007/himal2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Photo](bioinf-publichealth-2.png)
 
 # Hi there! 👋 I'm Himal.
@@ -27,7 +12,7 @@ I am a bioinformatician at the [Microbiological Diagnostic Unit Public Health La
 - 💻 Competencies: Bioinformatic analysis, Population genetics, Landscape genetics, Spatial modelling, Infectious disease modelling, Statistical analysis
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on developing bioinformatics pipelines for typing bacterial pathogens
-- 🌱 I’m currently learning Nextflow
+- 🌱 I’m currently learning GitHub Actions
 - 📖 I'm currently reading [Measuring the World](https://www.goodreads.com/book/show/642231.Measuring_the_World) by Daniel Kehlmann
 
 
